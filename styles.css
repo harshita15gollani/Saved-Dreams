@@ -1,0 +1,27 @@
+.navbar{
+  padding:0px;
+  margin:0px;
+}
+#image1{
+  background-image: url('about.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top;
+}
+h2{
+  color:#001f46;
+}
+h4{
+  color:#023e8a;
+}
+.nav-link{
+  color:black;
+  font-size:18px;
+}
+.navbar-brand{
+  color:black;
+  font-family: 'Zilla Slab', serif;
+  font-size:30px;
+}
+

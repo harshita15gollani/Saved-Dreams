@@ -1,0 +1,148 @@
+.navbar{
+  background-color: white;
+  margin:0px;
+  padding:0px;
+}
+.navbar-brand{
+  color:black;
+  font-family: 'Zilla Slab', serif;
+  font-size: 30px;
+}
+.nav-link{
+  color:black;
+  font-size: 18px;
+}
+h3{
+  margin-bottom:20px;
+}
+.main{
+  height:230px;
+  width:290px;
+  position: static;
+  float:left;
+  margin-left: 160px;
+  margin-right: 180px;
+}
+.button{
+  margin-left: 160px;
+}
+.mid{
+  text-align: left;
+}
+.icon{
+  width:140px;
+  height:100px;
+}
+.grid1{
+  background-color: #F1948A;
+  margin-right: 10px;
+  height:250px;
+  padding-top:20px;
+  padding-left: 40px;
+  font-size: 20px;
+}
+.grid2{
+  width:348px;
+  height:250px;
+  margin-right: 10px;
+  margin-left:10px;
+  padding-top: 20px;
+  padding-left: 40px;
+  font-size: 20px;
+  background-color: #85C1E9;
+}
+.grid3{
+  margin-left: 10px;
+  width:348px;
+  height:250px;
+  padding-top:20px;
+  padding-left: 30px;
+  font-size: 20px;
+  background-color: #76D7C4;
+}
+.footer{
+  margin-top:20px;
+  background-color: #264653;
+  color:white;
+  padding:20px;
+}
+.first{
+  margin-right:250px;
+}
+.second{
+  margin-right: 300px;
+}
+.third{
+  margin-right: 25px;
+}
+.testimonial{
+  margin-top:100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 70px;
+}
+.girl-child{
+  margin-bottom: 20px;
+}
+.now{
+  margin-left:100px;
+}
+.now1:hover{
+  background-color:#F9CFCA;
+}
+.now2:hover{
+  background-color:#C0E5FC;
+}
+.now3:hover{
+  background-color:#C8F9EF;
+}
+.mid-text{
+  text-align: center;
+}
+.new1{
+  background-image: url("second.jpeg");
+  background-size: cover;
+  padding:130px;
+  height:445px;
+  background-position: top;
+}
+.new{
+  background-image: url("Background.jpeg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  height:445px;
+  padding:70px;
+}
+.inner-text{
+  font-size: 20px;
+}
+.inner-text2{
+  margin-top:20px;
+  text-align: center;
+  font-size:25px;
+  margin-bottom: 30px;
+}
+.button1{
+  margin-left: 450px;
+}
+.color{
+  color:white;
+}
+.five{
+  margin-left: 25px;
+}
+.button2:hover{
+  background-color:white;
+  color:black;
+}
+.color:hover{
+  color:#3771F9;
+}
+span{
+  font-size: 30px;
+  color:#457b9d;
+}
+.child{
+height:260px;
+width:260px;
+}
