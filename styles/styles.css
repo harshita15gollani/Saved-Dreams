@@ -3,7 +3,7 @@
   margin:0px;
 }
 #image1{
-  background-image: url('about.jpeg');
+  background-image: url('../assets/about.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
